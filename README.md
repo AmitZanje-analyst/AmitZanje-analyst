@@ -1,10 +1,6 @@
-#👋 Hi, I’m @AmitZanje
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @AmitZanje
+👀 I’m interested in Data Analyst position 
 
-<!---
-AmitZanje-analyst/AmitZanje-analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have hands-on experience in Power BI,MySQL, Microsoft Excel also basic conceptsof Python
+
+## You can  reach me via📩-zanjeamit188@gmail.com
